@@ -1,0 +1,237 @@
+/*This website was created by: Rachel Jacques on Wednesday, July 26-2023*/
+body {
+  background-color: #00004c;
+  width: 100%;
+}
+
+/*Style navigation stays on the top of the page*/
+
+#container {
+  width: 98%;
+  background-color: #ffffff;
+  margin-left: 1em;
+  margin-right: 5em;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  border: 1em;
+}
+
+#outerwrapper {
+  width: 91%;
+  background-color: #00004c;
+  margin-left: 2em;
+  margin-right: 4em;
+}
+
+equip {
+  background-color: #00004c;
+  border: 4px solid #00004c;
+  white-space: wrap;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-style: monospace;
+}
+
+img {
+  background-color: #00004c;
+  border: 3px solid #00004c;
+  border-top: 3px solid #00004c;
+  border-bottom: 3px solid #00004c;
+}
+
+ul {
+  font-style: monospace;
+  font-weight: bold;
+  color: #00004c;
+}
+
+li {
+  color: #00004c;
+}
+
+a {
+  text-align: center;
+  color: #ffffff;
+}
+
+p {
+  text-align: center;
+  color: #ffffff;
+}
+
+span {
+  text-align: center;
+}
+
+header {
+  text-align: center;
+  display: block;
+  background-color: #9e1f32;
+  margin-left: -7em;
+  margin-right: -7em;
+  padding: -3em;
+  border: 7px solid #00004c;
+}
+
+equip {
+  border: 3px solid #00004c;
+  float: right;
+  text-align: center;
+}
+
+main {
+  display: block;
+  background-color: #d0d0d0;
+  border: 1px solid #00004c;
+  box-shadow: 2px 2px 2px solid #00004c;
+  width: 93%;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+main p {
+  display: block;
+  background-color: #00004c;
+  color: #00004c;
+}
+
+/*Style rules for a pseudo-classes*/
+nav li a:link {
+  color: #ffffff;
+}
+
+nav li a:visited {
+  color: #ffffff;
+}
+
+nav li a:hover {
+  color: #00004c;
+}
+
+nav li a:active {
+  color: #ffffff;
+}
+
+h1 {
+  color: #00004c;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  color: #00004c;
+  font-weight: bold;
+  font-style: monospace;
+}
+
+h3 {
+  text-align: center;
+  font-weight: bold;
+  font-style: monospace;
+  color: #ffffff;
+}
+
+figure img {
+  background-color: #696969;
+  display: inline;
+  height: 9em;
+  width: 33%;
+  margin: 1%;
+  padding: 1%;
+  box-shadow: 2px 2px 2px solid #ffffff;
+}
+
+figure img:hover {
+  height: 9em;
+  opacity: 1;
+}
+
+section {
+  padding-bottom: 3em;
+}
+
+section h1 {
+  color: #00004c;
+  text-align: left;
+}
+
+section a {
+  background-color: opacity;
+  color: #9e1f32;
+  font-weight: normal;
+  padding: 0;
+  text-decoration: underline;
+}
+
+section {
+  color: #00004c;
+  margin-left: 1em;
+  padding-bottom: 5em;
+}
+
+aside {
+  font-style: italic;
+}
+
+article {
+  background-color: #e0e0e0;
+  float: left;
+  margin: 0.5%;
+  padding: 0.5%;
+  text-align: center;
+  width: 29%;
+  border: 1px solid #00004c;
+  color: #6495ed;
+  font-weight: bold;
+}
+
+main article h1 {
+  text-align: center;
+  font-weight: bold;
+  font-style: monospace;
+  color: #5d76a9;
+}
+
+main article img {
+  border: 2px solid #e0e0e0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main article ol {
+  text-align: left;
+}
+
+main article ul {
+  text-align: left;
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
